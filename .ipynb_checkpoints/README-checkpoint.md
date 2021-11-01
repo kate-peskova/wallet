@@ -22,12 +22,12 @@ ln -s hd-wallet-derive/hd-wallet-derive.php derive
 
 To interact with the hd-wallet-tool, we will use Python. The links to the code files are listed below.
 
-* [constants.py](constants.py)
-* [wallet.py](wallet.py)
+* [constants.py](python/constants.py)
+* [wallet.py](python/wallet.py)
 
 Activate the local network nodes. Please refer to this tutorial for details.
 
-[Creating and running a locacal blockchain network tutorial](<url>Blockchain-Tools/hd-wallet-derive)
+[Creating and running a locacal blockchain network tutorial](https://github.com/kate-peskova/hurricane-network/blob/main/README.md)
 
 
 To interact with wallet.py through the terminal, start out with the following commands and replace them with the appropriate parameters:
